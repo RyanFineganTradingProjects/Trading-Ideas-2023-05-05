@@ -1,5 +1,5 @@
 # Trading Idea 2023/05/05
-I created two quick trade ideas for a small personal project. I wound up leaving out the Bloomberg BQuant code because even though it was created on my own time outside of work hours, the Bloomberg account was through my company and I wasn't sure if there were any ethical issues. I can reproduce and share if anyone is interested.
+I created two quick trade ideas for a small personal project. I wound up leaving out the Bloomberg BQuant code because even though it was created soley by me and on my own time outside of work hours, the Bloomberg account was through my company and I wasn't sure if there were any ethical issues. I can reproduce and share if anyone is interested.
 
 # Trading Idea Update: As of 2023/05/22:
 # GLD US Equity Long
