@@ -1,6 +1,8 @@
 # Trading Idea 2023/05/05
 I created two quick trade ideas for a small personal project. I wound up leaving out the Bloomberg BQuant code.
 
+These are just the updates to the trades to provide color.
+
 # Trading Idea Update: As of 2023/05/22:
 # GLD US Equity Long
 
