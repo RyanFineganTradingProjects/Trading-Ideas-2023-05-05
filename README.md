@@ -18,4 +18,4 @@ Please see the pptx for a validation backtest applied to this current year (show
 
 
 # HELE US Equity Short
-Helen of Troy's stock closed at $97.15 as of May 19th. This was and still is a long term trade given their accounting gimmicks and rollup strategy. Rollups won't work in a high rate environment and their organic growth is quite poor given their brands have little to no synergies from previous acquisitions. 
+Helen of Troy's stock closed at $97.15 as of May 19th. This was and still is a long term trade given their accounting gimmicks and rollup strategy. Rollups won't work in a high rate environment and their organic growth is quite poor given their brands have little to no synergy from previous acquisitions. 
