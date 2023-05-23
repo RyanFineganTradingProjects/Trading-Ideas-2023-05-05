@@ -12,7 +12,7 @@ Given the conditional probabilities provided by the Frank Copula of the GLD-XLV 
 
 However, given the current macro environment, I believe a long in GLD US Equity is still a smart position.
 
-Please see the pptx for a validation backtest applied to this current year (shows conditional probabilities with prices. 
+Please see the pptx for a validation backtest applied to this current year (shows conditional probabilities with prices). 
 
 <img width="976" alt="image" src="https://github.com/RyanFineganTradingProjects/Trading-Ideas-2023-05-05/assets/134295477/66d194cc-925d-4c84-b6cd-c55a93e48850">
 
